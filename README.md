@@ -24,7 +24,7 @@ Once you have Thonny installed, you can see the code that is on the InkyFrame, d
 
 ## Firmware
 
-Periodically, new firmware will be released for the hardware. Because this is a cluster of hardware (display, microcontroller, etc.), Pimoroni releases [firmware](https://github.com/pimoroni/pimoroni-pico/blob/main/setting-up-micropython.mdhttps:/). The most recent firmware for the InkyFrame 4.0 can be found at [https://github.com/pimoroni/pimoroni-pico/releases](https://github.com/pimoroni/pimoroni-pico/releaseshttps:/). You'll be looking for a file that follows the naming standard **pimoroni-picow_inky_frame-vx.x.x-micropython.uf2
+Periodically, new firmware will be released for the hardware. Because this is a cluster of hardware (display, microcontroller, etc.), Pimoroni releases [firmware](https://github.com/pimoroni/pimoroni-pico/blob/main/setting-up-micropython.mdhttps:/). The most recent firmware for the InkyFrame 4.0 can be found at [https://github.com/pimoroni/pimoroni-pico/releases](https://github.com/pimoroni/pimoroni-pico/releaseshttps:/). You'll be looking for a file that follows the naming standard *pimoroni-picow_inky_frame-vx.x.x-micropython.uf2*
 
 To load new firmware:
 
